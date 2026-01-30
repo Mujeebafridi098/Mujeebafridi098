@@ -1,5 +1,25 @@
-# 💫 About Me:
-Create a professional and modern GitHub README profile for me.<br><br>My name is Mujeeb Ur Rehman, i have done my bachelors in computer science from Iqra National University with a cgpa of 3.44/4.00 (2025), i have worked at <br>Raja Sabir khan and company as a data manager<br>Currently working at Nerd Camp as Flutter And Ai Developer <br>also doing remote job with Nexus Technologies as a full end flutter developer , a Full-End Flutter Developer with 1.5+ years of experience, based in Peshawar, Pakistan.<br><br>The README should highlight:<br>- My role as a Full-End Flutter Developer (frontend + backend/API integration)<br>- Strong experience with Flutter, Dart, Firebase, REST APIs, state management (GetX, Provider, Riverpod, Bloc)<br>- Backend exposure including Firebase Functions, Node.js basics, MongoDB, MySQL<br>- Experience building production-level apps such as:<br>  - Hospital Management System (EDM Solution)<br>  - LMS applications (Quality Coaching Academy – live on Play Store & App Store)<br>  - AI-powered music streaming app (Spotify-like)<br>  - Multi-language travel app (English & Arabic)<br>- My remote role at Nexus Technologies and work with The Nerd Camp (PSEB)<br><br>Also include a section for my **AI & NLP background**, such as:<br>- Clinical Sentiment Analysis (NLP)<br>- Healthcare Chatbot<br>- Explainable AI research for cardiovascular disease prediction<br>- Interests in NLP, Healthcare AI, and Machine Learning<br><br>The README should include:<br>- A short, catchy introduction<br>- Tech stack with icons/emojis<br>- Key projects section<br>- Areas of interest<br>- GitHub stats placeholder<br>- Contact section with email and LinkedIn<br>- Clean, developer-friendly formatting using Markdown<br>- Professional but friendly tone (not too casual)<br><br>Do NOT invent fake achievements or tools.<br>Keep everything realistic and aligned with a real developer profile.<br>
+Hi 👋 I'm Mujeeb Ur Rehman — a Full-End Flutter Developer & AI Enthusiast from Peshawar, Pakistan.
+
+🎓 BS Computer Science (CGPA: 3.44/4.00)
+💼 Flutter & AI Developer at The Nerd Camp (PSEB)
+🌍 Remote Full-End Flutter Developer at Nexus Technologies
+📊 Former Data Manager at Raja Sabir Khan & Co.
+
+I build scalable cross-platform apps with Flutter + Firebase, handle API integration & backend logic, and work on AI/NLP solutions in healthcare.
+
+🚀 What I Build
+
+🏥 EDM Solution – Hospital Management System
+
+🎓 QCA LMS – Live on Play Store & App Store
+
+🎵 Ovatify – AI-powered music streaming app
+
+✈️ Almiqdaam – Multi-language travel app (EN/AR)
+
+🤖 Clinical Sentiment Analysis & Healthcare Chatbot
+
+🧠 Explainable AI for Heart Disease Prediction
 
 
 ## 🌐 Socials:
